@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HR Employee</string>
+    <string name="emp_name">FIO</string>
+    <string name="emp_name_hint">FIO employee</string>
+    <string name="emp_position">Position</string>
+    <string name="emp_position_hint">Position</string>
+    <string name="submit_text">Submit</string>
+    ]
+    <string name="open_text">Open List</string>
+    <string name="image_about">Image logo</string>
+
+    <string name="tv_text">&#8942;</string>
+    <string name="default_text">Default text</string>
+    <string name="edit_text">Edit</string>
+    <string name="remove_text">Remove</string>
+    <string name="update_text">Update</string>
+    <string name="submit_const">Add</string>
+</resources>
